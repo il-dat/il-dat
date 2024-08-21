@@ -14,4 +14,4 @@
 **📫 How to reach me**
 
 [![github](https://img.shields.io/badge/Github\/datnguye-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/datnguye)
-[![linkedin](https://img.shields.io/badge/LinkedIn\/tuiladat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuiladat/)
+[![linkedin](https://img.shields.io/badge/LinkedIn\/datnguye-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/datnguye/)
